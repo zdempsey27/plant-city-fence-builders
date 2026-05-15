@@ -1,0 +1,8 @@
+# Robots.txt for Haines City Fence Builders
+# https://hainescityfencebuilders.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://hainescityfencebuilders.com/sitemap-index.xml
